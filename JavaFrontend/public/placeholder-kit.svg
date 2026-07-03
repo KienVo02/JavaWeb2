@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="560" viewBox="0 0 480 560" fill="none">
+  <rect width="480" height="560" fill="#f4f6f8"/>
+  <path d="M155 116L214 92H266L325 116L376 178L327 217V438H153V217L104 178L155 116Z" fill="#e11d2e"/>
+  <path d="M214 92C222 112 258 112 266 92L286 100C278 132 202 132 194 100L214 92Z" fill="#111827"/>
+  <path d="M174 164H306V190H174V164Z" fill="white" opacity=".9"/>
+  <path d="M195 228H285V252H195V228Z" fill="white" opacity=".9"/>
+  <text x="240" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="white">GS</text>
+</svg>

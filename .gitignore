@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+.idea/
+
+**/target/
+**/node_modules/
+**/dist/
+
+image/uploads/
+
+*.log
+*.class
